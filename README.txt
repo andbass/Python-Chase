@@ -1,5 +1,6 @@
 
 This is an upload of my 2D racing game in Python for my Game Development class in High School
+All art asserts are from the classic 1999 video game, Grand Theft Auto 2
 The original readme is as follows:
 
 Hello!
